@@ -51,7 +51,7 @@ ggplot(mydata, aes(x = position, y = pushups)) +
   theme(plot.title = element_text(size = 20, hjust = 0.5))
 ```
 
-The skill players were able to get a higher push up count than the majority of the line players. 
+The skill players were able to get a higher push up count than the majority of the line players. The median in both box plots, which is the dark line in the middle of each boxes, indicate that the skill players were able to rep out more push ups on average. The line players median was 14.5 meanwhile the skill players had a median of 47.5.
 
 ### Numerical Descriptive Results
 
