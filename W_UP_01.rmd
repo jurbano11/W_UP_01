@@ -69,6 +69,7 @@ The skill players are doing a lot more pushups than the line players. This is sh
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
+The data shown above shows that the skill player did more pushups then the line players and the mean scores there is a 32.6 probability difference between the line and skill players.
 
 
 # Discussion and Conclusion
